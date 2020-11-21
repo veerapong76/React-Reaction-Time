@@ -7,3 +7,4 @@
 - npm i --save react-native-swiper@next
 - npm i react-native-elements --save
 - npm i --save react-native-vector-icons
+- expo install expo-av
