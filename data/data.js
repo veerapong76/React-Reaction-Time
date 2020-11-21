@@ -1,23 +1,22 @@
 export const DATA = [
     {
-      id: "1",
-      title: "First Item",
-      path: "Index",
+      title: "เกมฝึกปฏิกิริยาตอบสนองการมองเห็น",
+      path: "Vision",
     },
     {
       id: "2",
-      title: "Second Item",
-      path: "Index",
+      title: "เกมฝึกปฏิกิริยาตอบสนองการสัมผัส",
+      path: "Sense",
     },
     {
       id: "3",
-      title: "Third Item",
-      path: "Index",
+      title: "เกมฝึกปฏิกิริยาตอบสนองการได้ยิน",
+      path: "Hear",
     },
     {
       id: "4",
-      title: "Forth Item",
-      path: "Index",
+      title: "เกมฝึกปฏิกิริยาตอบสนองการคำนวณ",
+      path: "Calculation",
     },
   ];
 
